@@ -6,12 +6,12 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #f13333, #e98d0d, #ffdd00, #1b8b02, #006494);
+background-image: linear-gradient(to right top, #f13333, #e98d0d, #ffdd00, #1b8b02, #006494, #a904e0, #ff189f);
 }
 
 .header
 {
-	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color: white;font-family: 'Macondo';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
 }
 .header img
 {
