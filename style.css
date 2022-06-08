@@ -92,3 +92,7 @@ background-image: linear-gradient(to right top, #f13333, #e98d0d, #ffdd00, #1b8b
 {
 	padding-left:5px;color:grey;
 }
+
+label{
+	font-family: 'Nanum Brush Script', cursive;
+}
